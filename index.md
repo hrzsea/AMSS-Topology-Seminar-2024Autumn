@@ -5,7 +5,7 @@
 
 ### <font color=Peru size=3>   李振坤 (佛罗里达州立大学) </font>
 
-### <font color=LightCoral size=3>Time: 14：30-15：30, Dec. 25, 2024 </font>
+### <font color=LightCoral size=3>Time: 14：30-15：30, Jan. 08, 2025 </font>
 
 Place: N818
 
