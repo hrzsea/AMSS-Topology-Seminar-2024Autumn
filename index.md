@@ -3,7 +3,7 @@
 （return to homepage of [AMSS Topology Seminar](https://hrzsea.github.io/AMSS-Topology-Seminar/)）
 
 
-### <font color=Peru size=3>   李振坤 (佛罗里达州立大学) </font>
+### <font color=Peru size=3> 李振坤 (佛罗里达州立大学) </font>
 
 ### <font color=LightCoral size=3>Time: 14：30-15：30, Jan. 08, 2025 </font>
 
@@ -18,7 +18,7 @@ Abstract: This is a work in progress with John Baldwin, Steven Sivek, and Fan Ye
 -------------------------------------------------------------------------------------------
 
 
-### <font color=Peru size=3>   姚远（Nantes）</font>
+### <font color=Peru size=3> 姚远（Nantes）</font>
 
 ### <font color=LightCoral size=3>Time: 14：30-15：30, Dec. 25, 2024 </font>
 
@@ -31,7 +31,7 @@ Abstract: The problem of symplectically packing k symplectic balls into a larger
 
 -------------------------------------------------------------------------------------------
 
-### <font color=Peru size=3>   Thomas Schick(Georg-August-Universität Göttingen) </font>
+### <font color=Peru size=3>   Thomas Schick (Georg-August-Universität Göttingen) </font>
 
 ### <font color=LightCoral size=3>Time: 15：30-17：00, Dec. 18, 2024 </font>
 
